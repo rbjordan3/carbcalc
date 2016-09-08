@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="05ee2621df8f68abb8469f61816b6184e77dbf33">
+        <dex dex="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5bc91e7553d66b2649ff2d6adbbf3e39804e238a/classes.dex" />
+    </item>
+    <item
+        jar="/home2/rob/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.0.0/2943c74db6d4346ab8c6531adac91fa05c137c40/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_dbd8bedf09437bb29094792ba55ffa627e3a9416/classes.dex" />
+    </item>
+    <item
+        jar="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_2ee964beaedee62155fee57c2fd9f95878aefbd3/classes.dex" />
+    </item>
+    <item
+        jar="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_e81155cd4bf1e9c27999bb2b70d8156a5e802742/classes.dex" />
+    </item>
+    <item
+        jar="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_49519bf91970d9207e7e464bdd9a7a34b9ece869/classes.dex" />
+    </item>
+    <item
+        jar="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_42fcd186a64e74cd511c7f8276ed764fd9fd5aa9/classes.dex" />
+    </item>
+    <item
+        jar="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0d18a35d83a2ac0d456b01c0206521b033ecdc24">
+        <dex dex="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c3a996582d5eb23cfcf3fbb849a56694b00aa84b/classes.dex" />
+    </item>
+    <item
+        jar="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/home2/rob/AndroidStudioProjects/carbcalc/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_baeb3f5f47866862a109749197fae0bb39b96d02/classes.dex" />
+    </item>
+
+</items>
